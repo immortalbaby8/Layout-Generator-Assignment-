@@ -4,6 +4,8 @@
 
 ![valid output src](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/a45dfcfdcbc0705ab968f48b7f624c51c7ba44a6/Screenshot%202026-01-15%20030440.png?raw=true)
 
+![ivalid output src](https://github.com/immortalbaby8/Layout-Generator-Assignment-/blob/500d656629eb88de84ad697580254810bf14e5c5/Screenshot%202026-01-15%20030514.png?raw=true)
+
 ## 📋 Features
 
 * **Procedural Generation:** Generates random layouts of **Type A** (30x20m) and **Type B** (20x20m) buildings.
